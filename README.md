@@ -1,4 +1,4 @@
-# Snake Game with OOP
+# 🐍 Snake Game
 
 Snake game built using pygame to learn object oriented programming principles.
 
